@@ -1,0 +1,14 @@
+{
+    "name": "alexanderilyin/selenium-server-standalone",
+    "description": "Metapackage for managing selenium-server-standalone-*.jar",
+    "type": "metapackage",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Alexander Ilyin",
+            "email": "alexander@ilyin.eu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
